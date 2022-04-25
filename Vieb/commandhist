@@ -1,0 +1,79 @@
+q
+set adblocker=update
+set firefoxmode=always
+set adblocker=static
+mkviebrc
+set downloadpath ~/dl
+set downloadpath=~/dl/
+mkviebrc full
+set firefoxmode=always
+mkviebrc
+quitall
+set firefoxmode=google
+help
+set search=https://www.google.com/search?h1=en&q=lakshya
+set search=https://www.google.com/search?h1=en&q=%s
+mkviebrc full
+set redirecttohttp
+mkviebrc full
+help
+#mousevisualmode "activate"
+reloadconfig
+set permissionclipboardread=allow
+mkviebrc full
+set firefoxmode=always
+set newtaburl="file:///home/lakshya/docx/minima.html
+set newtaburl=file:///home/lakshya/docx/minima.html
+set suggesttopsites=0
+mkviebrc
+mkviebrc full
+q
+extensions install
+mkviebrc full
+makedefault
+mkviebrc full
+set firefoxmode=always
+mkviebrc full
+set firefoxmode=google
+mkviebrc full
+q
+quitall
+set newtaburl=file:///home/lakshya/.config/StartPage/minima.html
+mkviebrc full
+colorscheme flipped
+colorscheme verticaltabs
+colorscheme default
+colorscheme light
+colorscheme default
+vsplit youtube
+vsplit
+close 2
+close 0
+set suggestorder=history,searchword,file
+set cache=clearonquit
+set clearcookiesonquit
+mkviebrc full
+set timeoutlen=5000
+colorscheme verticaltabs
+mkviebrc full
+colorscheme default
+close 2
+colorscheme verticaltabssmall
+reloadconfig
+colorscheme verticaltabssmall
+set guitabbar=onupdate
+colorscheme default
+set guifullscreennavbar=onupdate
+set guitabbar=onupdate
+set guinavbar=oninput
+mkviebrc full
+downloads
+q
+set firefoxmode=google
+close *
+close!
+close
+quitall
+reloadconfig
+set adblocker=update
+q

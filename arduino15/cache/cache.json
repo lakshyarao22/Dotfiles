@@ -1,0 +1,55 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "/home/lakshya/.arduino15/cache/downloads.arduino.cc/libraries/library_index.json.gz",
+    "eTag" : "729c5e980220d16e23b0391906c99c05",
+    "md5" : "MD5:729c5e980220d16e23b0391906c99c05",
+    "createdAt" : "2022-04-06T19:42:33.185",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "noCache" : false,
+      "mustRevalidate" : false,
+      "noStore" : false
+    },
+    "expires" : "2022-04-06T23:42:33.185"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "/home/lakshya/.arduino15/cache/downloads.arduino.cc/packages/package_index.json.sig",
+    "eTag" : "181e5ebaaa7ec55b2093fff3caeec2ba",
+    "md5" : "MD5:181e5ebaaa7ec55b2093fff3caeec2ba",
+    "createdAt" : "2022-04-06T19:42:32.676",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "noCache" : false,
+      "mustRevalidate" : false,
+      "noStore" : false
+    },
+    "expires" : "2022-04-06T20:42:32.676"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "/home/lakshya/.arduino15/cache/downloads.arduino.cc/libraries/library_index.json.sig",
+    "eTag" : "b01fb1527579e172dd11f56b4ff10ebd",
+    "md5" : "MD5:b01fb1527579e172dd11f56b4ff10ebd",
+    "createdAt" : "2022-04-06T19:42:33.366",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "noCache" : false,
+      "mustRevalidate" : false,
+      "noStore" : false
+    },
+    "expires" : "2022-04-06T23:42:33.366"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "/home/lakshya/.arduino15/cache/downloads.arduino.cc/packages/package_index.json",
+    "eTag" : "5c182a0289778c839297d2d61401f273",
+    "md5" : "MD5:5c182a0289778c839297d2d61401f273",
+    "createdAt" : "2022-04-06T19:42:32.585",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "noCache" : false,
+      "mustRevalidate" : false,
+      "noStore" : false
+    },
+    "expires" : "2022-04-06T20:42:32.585"
+  } ]
+}

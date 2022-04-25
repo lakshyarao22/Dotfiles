@@ -1,0 +1,79 @@
+# Emoji Selector
+super + period
+	rofi -show emoji -modi emoji -theme "$HOME/.config/rofi/launchers/text/style_2"
+
+# App Launcher
+alt + space
+	./.config/rofi/bin/launcher_text
+
+# Changing Brightness
+XF86MonBrightness{Up,Down}
+  brightnessctl s 50{+,-} ; \
+  kill -35 "$(cat ~/.cache/pidofbar)"
+
+super + {F8,F7}
+  brightnessctl s 50{+,-} ; \
+  kill -35 "$(cat ~/.cache/pidofbar)"
+
+super + {Right,Left}
+  brightnessctl s 50{+,-} ; \
+  kill -35 "$(cat ~/.cache/pidofbar)"
+# Changing the Volume
+XF86Audio{Raise,Lower}Volume
+  pulsemixer --change-volume {+,-}1 ; \ 
+  kill -34 "$(cat ~/.cache/pidofbar)"
+
+super + {F12,F11}
+  pulsemixer --change-volume {+,-}1 ; \ 
+  kill -34 "$(cat ~/.cache/pidofbar)"
+
+super + {Up,Down}
+  pulsemixer --change-volume {+,-}1 ; \ 
+  kill -34 "$(cat ~/.cache/pidofbar)"
+
+XF86AudioMute
+  pulsemixer --toggle-mute ; \
+  kill -34 "$(cat ~/.cache/pidofbar)"
+
+super + F10
+  pulsemixer --toggle-mute ; \
+  kill -34 "$(cat ~/.cache/pidofbar)"
+
+# Media Control
+XF86AudioPlay
+  playerctl --player=%any play
+
+XF86AudioPause
+  playerctl --player=%any pause
+
+XF86AudioNext
+  playerctl --player=%any next
+
+XF86AudioPrev
+  playerctl --player=%any previous
+
+# ScreenShot
+super + shift + s
+  screenshot
+# File Manager
+super + e
+  pcmanfm
+# Browsing
+super + b ; {g,v}
+  {google-chrome-stable,vieb}
+
+# Launch Terminal
+super + Return
+  alacritty
+
+#Play Lofi on demand
+super + p ; l
+  lofi
+# extra Functions 
+ctrl + shift + {F1,F2,F3,F4,F5}
+	{pkill -USR1 -x sxhkd,setxkbmap -option caps:escape && xset r rate 200 30 && notify-send "Keyboard Updated",connectBluetooth,mount_prompt,unmount_prompt}
+
+# Power Options
+alt + F4
+  power_options
+

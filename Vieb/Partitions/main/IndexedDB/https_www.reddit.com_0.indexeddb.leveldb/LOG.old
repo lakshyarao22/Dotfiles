@@ -1,0 +1,14 @@
+2022/03/22-04:21:19.703 1aefc2 Reusing MANIFEST /home/lakshya/.config/Vieb/Partitions/main/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/22-04:21:19.703 1aefc2 Recovering log #4
+2022/03/22-04:21:19.704 1aefc2 Reusing old log /home/lakshya/.config/Vieb/Partitions/main/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000004.log 
+2022/03/22-04:22:22.599 1aefc2 Level-0 table #7: started
+2022/03/22-04:22:22.601 1aefc2 Level-0 table #7: 4348 bytes OK
+2022/03/22-04:22:22.605 1aefc2 Delete type=0 #4
+2022/03/22-04:22:22.605 1aefc2 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 158 : 1
+2022/03/22-04:22:22.605 1aefc2 Compacting 2@0 + 0@1 files
+2022/03/22-04:22:22.608 1aefc2 Generated table #8@0: 20 keys, 1348 bytes
+2022/03/22-04:22:22.608 1aefc2 Compacted 2@0 + 0@1 files => 1348 bytes
+2022/03/22-04:22:22.610 1aefc2 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/03/22-04:22:22.610 1aefc2 Delete type=2 #3
+2022/03/22-04:22:22.610 1aefc2 Delete type=2 #7
+2022/03/22-04:22:22.611 1aefc2 Manual compaction at level-0 from '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 158 : 1 .. (end); will stop at (end)

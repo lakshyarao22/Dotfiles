@@ -1,0 +1,18 @@
+2022/04/07-11:19:54.002 7cb Reusing MANIFEST /home/lakshya/.config/Vieb/Partitions/main/Local Storage/leveldb/MANIFEST-000001
+2022/04/07-11:19:54.014 7cb Recovering log #49
+2022/04/07-11:19:54.017 7cb Reusing old log /home/lakshya/.config/Vieb/Partitions/main/Local Storage/leveldb/000049.log 
+2022/04/07-11:24:30.430 7932 Level-0 table #53: started
+2022/04/07-11:24:30.438 7932 Level-0 table #53: 111336 bytes OK
+2022/04/07-11:24:30.441 7932 Delete type=0 #49
+2022/04/07-11:24:30.441 7932 Compacting 4@0 + 1@1 files
+2022/04/07-11:24:30.450 7932 Generated table #54@0: 199 keys, 477901 bytes
+2022/04/07-11:24:30.450 7932 Compacted 4@0 + 1@1 files => 477901 bytes
+2022/04/07-11:24:30.452 7932 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/07-11:24:30.452 7932 Delete type=2 #42
+2022/04/07-11:24:30.452 7932 Delete type=2 #44
+2022/04/07-11:24:30.452 7932 Delete type=2 #47
+2022/04/07-11:24:30.452 7932 Delete type=2 #50
+2022/04/07-11:24:30.452 7932 Delete type=2 #53
+2022/04/07-11:30:05.826 14253 Level-0 table #56: started
+2022/04/07-11:30:05.835 14253 Level-0 table #56: 99535 bytes OK
+2022/04/07-11:30:05.837 14253 Delete type=0 #52

@@ -1,0 +1,6 @@
+2022/04/20-13:34:35.837 1fd19 Reusing MANIFEST /home/lakshya/.config/Vieb/Partitions/main/Local Storage/leveldb/MANIFEST-000001
+2022/04/20-13:34:35.838 1fd19 Recovering log #55
+2022/04/20-13:34:35.839 1fd19 Reusing old log /home/lakshya/.config/Vieb/Partitions/main/Local Storage/leveldb/000055.log 
+2022/04/20-20:32:34.637 9096c Level-0 table #59: started
+2022/04/20-20:32:34.644 9096c Level-0 table #59: 24231 bytes OK
+2022/04/20-20:32:34.648 9096c Delete type=0 #55
