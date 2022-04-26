@@ -605,6 +605,7 @@ spirv-tools
 sqlite
 sratom
 srt
+starship
 startup-notification
 steam
 svt-av1
@@ -621,6 +622,7 @@ tree-sitter
 tslib
 ttf-carlito
 ttf-dejavu
+ttf-iosevka-nerd
 ttf-joypixels
 ttf-liberation
 ttf-ms-fonts
