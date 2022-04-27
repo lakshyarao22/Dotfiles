@@ -170,6 +170,7 @@ kpty
 krb5
 l-smash
 lame
+lazygit
 lcms2
 ldns
 less
@@ -457,6 +458,7 @@ neovim
 nerd-fonts-jetbrains-mono
 nettle
 networkmanager
+nodejs
 noto-fonts
 noto-fonts-emoji
 npth
@@ -605,7 +607,6 @@ spirv-tools
 sqlite
 sratom
 srt
-starship
 startup-notification
 steam
 svt-av1
@@ -691,6 +692,7 @@ xorgproto
 xvidcore
 xxhash
 xz
+yarn
 yay-bin
 yt-dlp
 yt-dlp-drop-in
