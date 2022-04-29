@@ -42,6 +42,7 @@ h1 {
 	right: 0px;
 	margin-top: 3em;
 	margin-right: 3em;
+  background-color: white;
 }
 .heading {
 	justify-content: space-between
@@ -202,7 +203,11 @@ h1 {
 <!-- ██████╔╝╚██████╔╝██████╔╝   ██║    -->
 <!-- ╚═════╝  ╚═════╝ ╚═════╝    ╚═╝    -->
 <body id="bg" >
-	<div class="heading">
+<!-- 	<div class="heading"> -->
+<!--       <div id="clock" class="container"> -->
+<!--     <h3 id="displayDateTime" margin="1em"> -->
+<!--     </h3> -->
+<!-- </div> -->
 	<iframe id='clock' width='280' height='158' style='padding:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjp0cnVlLCJ3LTExIjp0cnVlLCJ3LTEzIjp0cnVlLCJ3LTE0Ijp0cnVlLCJ3LTE1IjpmYWxzZSwidy0xMTAiOmZhbHNlLCJ3LXdpZHRoLTAiOmZhbHNlLCJ3LXdpZHRoLTEiOnRydWUsInctd2lkdGgtMiI6ZmFsc2UsInctMTYiOiIxNnB4IDE2cHggMjRweCIsInctMTkiOiI0OCIsInctMTciOiIxNiIsInctMjEiOnRydWUsImJnaW1hZ2UiOjEwLCJiZ2ltYWdlU2V0Ijp0cnVlLCJ3LTIxYzAiOiIjZmZmZmZmIiwidy0wIjp0cnVlLCJ3LTMiOnRydWUsInctM2MwIjoiIzQwYTBlNiIsInctM2IwIjoiMSIsInctNiI6IiNlNmY3ZjYiLCJ3LTIwIjp0cnVlLCJ3LTQiOiIjNDNhYWI0Iiwidy0xOCI6ZmFsc2UsInctd2lkdGgtMmMtMCI6IjMwMCJ9&lang=en&cityid=12357'></iframe>
 	<div id="greeting">
 		<h2>Hello 👋</h2>
@@ -266,5 +271,15 @@ h1 {
 	</div>
 	</div>
 </body>
+    <script type="text/javascript">
+      var today = new Date();
+  var day = today.getDay();
+  var daylist = ["Sunday","Monday","Tuesday","Wednesday ","Thursday","Friday","Saturday"];
+  var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+  var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+  var dateTime = date+' '+time;
+   
+  document.getElementById("displayDateTime").innerHTML = dateTime + ' <br> Day :- ' + daylist[day];
+    </script>displayDateTime
 </html>
 
