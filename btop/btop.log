@@ -2,3 +2,6 @@
 2022/02/06 (03:57:52) | ===> btop++ v.1.2.0
 2022/02/06 (03:57:52) | ERROR: Invalid RGB decimal value: "2"
 2022/02/06 (03:58:16) | ERROR: Invalid RGB decimal value: "2"
+
+2022/05/08 (14:55:44) | ===> btop++ v.1.2.6
+2022/05/08 (14:55:44) | ERROR: Failed to get size of terminal!
