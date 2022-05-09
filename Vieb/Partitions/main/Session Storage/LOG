@@ -1,3 +1,15 @@
-2022/04/20-13:34:46.015 1fd19 Reusing MANIFEST /home/lakshya/.config/Vieb/Partitions/main/Session Storage/MANIFEST-000001
-2022/04/20-13:34:46.016 1fd19 Recovering log #28
-2022/04/20-13:34:46.017 1fd19 Reusing old log /home/lakshya/.config/Vieb/Partitions/main/Session Storage/000028.log 
+2022/05/09-15:16:54.041 19e03 Reusing MANIFEST /home/lakshya/.config/Vieb/Partitions/main/Session Storage/MANIFEST-000001
+2022/05/09-15:16:54.041 19e03 Recovering log #28
+2022/05/09-15:16:54.042 19e03 Reusing old log /home/lakshya/.config/Vieb/Partitions/main/Session Storage/000028.log 
+2022/05/09-16:41:24.872 288fb Level-0 table #31: started
+2022/05/09-16:41:24.881 288fb Level-0 table #31: 17169 bytes OK
+2022/05/09-16:41:24.886 288fb Delete type=0 #28
+2022/05/09-16:41:24.887 288fb Compacting 4@0 + 1@1 files
+2022/05/09-16:41:24.897 288fb Generated table #32@0: 1479 keys, 34794 bytes
+2022/05/09-16:41:24.897 288fb Compacted 4@0 + 1@1 files => 34794 bytes
+2022/05/09-16:41:24.905 288fb compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/09-16:41:24.906 288fb Delete type=2 #20
+2022/05/09-16:41:24.906 288fb Delete type=2 #23
+2022/05/09-16:41:24.906 288fb Delete type=2 #26
+2022/05/09-16:41:24.906 288fb Delete type=2 #28
+2022/05/09-16:41:24.906 288fb Delete type=2 #31
