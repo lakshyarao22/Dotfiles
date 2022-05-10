@@ -40,7 +40,10 @@
         "https://github.com/brave/adblock-lists/raw/master/brave-unbreak.txt": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt",
         "https://pornhub.org/": "https://www.pornhub.org/",
         "https://out.reddit.com/t3_u46oyp?app_name=web2x&token=AQAAtM1fYmhoEFNgpTsf2_U-80z0PVWtRhMMXPdE72VSOoaG-TWt&url=https%3A%2F%2Fgithub.com%2Fneovim%2Fneovim%2Freleases%2Ftag%2Fv0.7.0&web_redirect=true": "https://github.com/neovim/neovim/releases/tag/v0.7.0",
-        "https://github.com/Miodec/monkeytype/blob/dev/frontend/static/themes/nord.css": "https://github.com/monkeytypegame/monkeytype/blob/dev/frontend/static/themes/nord.css"
+        "https://github.com/Miodec/monkeytype/blob/dev/frontend/static/themes/nord.css": "https://github.com/monkeytypegame/monkeytype/blob/dev/frontend/static/themes/nord.css",
+        "http://standardeyre.blogspot.ca/2017/06/markdown-all-way.html": "http://standardeyre.blogspot.com/2017/06/markdown-all-way.html",
+        "http://192.168.1.1/": "http://192.168.1.1/admin/login.asp",
+        "http://192.168.1.1/boaform/admin/formLogin": "http://192.168.1.1/"
     },
     "https://www.google.com/gmail/about/": "https://www.google.com/gmail/about/static-2.0/images/favicon.ico?fingerprint=913d48cd5d48ba34313131f246f99d6b",
     "https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin": "https://www.google.com/favicon.ico",
@@ -135,7 +138,7 @@
     "https://skinpacks.com/dark-theme-for-xp/": "https://i0.wp.com/skinpacks.com/wp-content/uploads/2015/03/Untitled-3-55140f94v1_site_icon.png?fit=192%2C192&ssl=1",
     "https://www.deviantart.com/avi80/art/Dark-VS-for-XP-409607869": "https://st.deviantart.net/eclipse/icons/android-144.png",
     "https://www.omgubuntu.co.uk/2022/01/wine-7-0-released-with-tons-of-improvements-including-a-new-theme": "https://149366088.v2.pressablecdn.com/wp-content/themes/omgubuntu-theme-2021_10_0/images/favicons/favicon-180x180.png",
-    "https://www.youtube.com/": "https://www.youtube.com/s/desktop/01f7cad5/img/favicon.ico",
+    "https://www.youtube.com/": "https://www.youtube.com/s/desktop/fc7b0168/img/favicon.ico",
     "https://www.youtube.com/results?search_query=khanabadosh": "https://www.youtube.com/s/desktop/973b574d/img/favicon.ico",
     "https://www.youtube.com/watch?v=JgFQcRcWRag&list=PLK_X-zjWMNPLrTrDsYAPCew83DUSqyG0C": "https://www.youtube.com/s/desktop/973b574d/img/favicon.ico",
     "https://www.youtube.com/watch?v=Xm2BF65sW1o&list=PLK_X-zjWMNPLrTrDsYAPCew83DUSqyG0C&index=2": "https://www.youtube.com/s/desktop/973b574d/img/favicon.ico",
@@ -417,5 +420,18 @@
     "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=mizu&rflfq=1&num=10#rlfi=hd:;si:,32.000659923856055,56.20946617500001;mv:[[57.739824,110.19538469999999],[-1.6221666,-9.5537961]]": "https://www.google.com/favicon.ico",
     "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=mizu&rflfq=1&num=10#rlfi=hd:;si:3211579509013918414;mv:[[57.739824,110.19538469999999],[-1.6221666,-9.5537961]]": "https://www.google.com/favicon.ico",
     "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=mizu&rflfq=1&num=10#rlfi=hd:;si:;mv:[[57.739824,110.19538469999999],[-1.6221666,-9.5537961]]": "https://www.google.com/favicon.ico",
-    "file:///home/lakshya/.config/StartPage/minima.html": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%F0%9F%91%8B</text></svg>"
+    "https://www.google.com/search?h1=en&q=how%20to%20give%20horizontal%20line%20in%20markdown%20table": "https://www.google.com/favicon.ico",
+    "https://www.markdownguide.org/extended-syntax/": "https://www.markdownguide.org/favicon.ico",
+    "https://github.com/vimwiki/vimwiki/issues/364": "https://github.githubassets.com/favicons/favicon-dark.png",
+    "http://standardeyre.blogspot.com/2017/06/markdown-all-way.html": "http://standardeyre.blogspot.com/favicon.ico",
+    "https://www.google.com/search?h1=en&q=search%20for%20all%20missing%20windows%20drivers%20and%20install%20them": "https://www.google.com/favicon.ico",
+    "https://www.technorms.com/87165/detect-missing-drivers": "https://www.technorms.com/assets/TN-Favicon-16-x-16.png",
+    "https://www.google.com/search?q=search+for+all+missing+windows+drivers+and+install+them+github&ei=0lB5YvWjFJK1sAeAxoSoCA&ved=0ahUKEwj11PWL-tL3AhWSGuwKHQAjAYUQ4dUDCA0&uact=5&oq=search+for+all+missing+windows+drivers+and+install+them+github&gs_lcp=Cgdnd3Mtd2l6EAM6BAgAEEc6BQghEKABOgcIIRAKEKABOgQIIRAKSgQIQRgASgQIRhgAUJwDWMQwYLEyaANwAngAgAG_BIgBnRqSAQU0LTUuMpgBAKABAcgBCMABAQ&sclient=gws-wiz": "https://www.google.com/favicon.ico",
+    "https://gist.github.com/Grimthorr/44727ea8cf5d3df11cf7": "https://github.githubassets.com/favicons/favicon-dark.png",
+    "https://www.youtube.com/watch?v=P3TTo0SYZSM": "https://www.youtube.com/s/desktop/fc7b0168/img/favicon.ico",
+    "https://www.google.com/search?h1=en&q=vampire%20tap": "https://www.google.com/favicon.ico",
+    "https://en.wikipedia.org/wiki/Vampire_tap": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+    "https://192.168.1.24/admin": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%F0%9F%91%8B</text></svg>",
+    "http://192.168.1.1/admin/login.asp": "http://192.168.1.1/favicon.ico",
+    "http://192.168.1.1/": "http://192.168.1.1/favicon.ico"
 }

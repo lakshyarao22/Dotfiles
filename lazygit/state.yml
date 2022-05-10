@@ -4,5 +4,6 @@ recentrepos:
 - /home/lakshya/.config/nvim
 - /home/lakshya/.config/zsh
 startuppopupversion: 5
-customcommandshistory: []
+customcommandshistory:
+- q
 hidecommandlog: false
