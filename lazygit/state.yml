@@ -1,8 +1,8 @@
 lastupdatecheck: 0
 recentrepos:
+- /home/lakshya/.config/zsh
 - /home/lakshya/.config
 - /home/lakshya/.config/nvim
-- /home/lakshya/.config/zsh
 startuppopupversion: 5
 customcommandshistory:
 - q
