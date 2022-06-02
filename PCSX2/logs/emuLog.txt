@@ -1,0 +1,36 @@
+Bios Found: Europe  v01.60(04/10/2001)  Console
+Bios Found: Europe  v01.60(04/10/2001)  Console
+Bios Found: Japan   v01.00(17/01/2000)  Console
+Bios Found: USA     v01.60(07/02/2002)  Console
+Bios Found: Europe  v02.00(14/06/2004)  Console
+Bios Found: USA     v02.00(14/06/2004)  Console
+Bios Found: Europe  v01.60(04/10/2001)  Console
+Bios Found: Europe  v02.00(14/06/2004)  Console
+Bios Found: Europe  v02.00(14/06/2004)  Console
+Bios Found: Europe  v02.00(04/11/2004)  Console
+Bios Found: Europe  v02.20(10/02/2006)  Console
+Bios Found: Japan   v01.00(17/01/2000)  Console
+Bios Found: Japan   v02.20(05/09/2006)  Console
+Bios Found: USA     v01.60(07/02/2002)  Console
+Bios Found: USA     v01.60(19/03/2002)  Console
+Invalid language identifier (wxID=0)
+
+PCSX2 Nightly - v1.7.2678 Compiled on May  1 2022
+Savestate version: 0x9a2c0000
+
+Host Machine Init:
+	Operating System =  Arch Linux
+	Physical RAM     =  11857 MB
+	CPU name         =  Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+	Vendor/Model     =  GenuineIntel (stepping 0A)
+	CPU speed        =  2.207 ghz (4 logical threads)
+	x86PType         =  Standard OEM
+	x86Flags         =  bfebfbff 7ffafbbf
+	x86EFlags        =  2c100800
+
+x86 Features Detected:
+	SSE2.. SSE3.. SSSE3.. SSE4.1.. SSE4.2.. AVX.. AVX2.. FMA
+
+Invalid language identifier (wxID=0)
+Installing POSIX SIGSEGV handler...
+Reserving memory for recompilers...

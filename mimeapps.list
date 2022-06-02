@@ -16,6 +16,7 @@ application/x-extension-xht=firefox.desktop
 application/pdf=mupdf.desktop
 text/plain=nvim.desktop
 x-scheme-handler/mailto=google-chrome.desktop
+x-scheme-handler/mailspring=Mailspring.desktop
 
 [Added Associations]
 x-scheme-handler/http=firefox.desktop;

@@ -23,7 +23,7 @@ color="${styles[$(( $RANDOM % 10 ))]}"
 #themes=($(ls -p --hide="launcher.sh" --hide="styles" $dir))
 #theme="${themes[$(( $RANDOM % 7 ))]}"
 
-rofi -no-lazy-grab -show drun \
--modi run \
+rofi -combi-modi "drun,run,ssh" -no-lazy-grab -show drun \
+-modi combi \
 -theme $dir/"$theme"
 

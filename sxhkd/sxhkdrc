@@ -8,12 +8,13 @@ alt + space
 
 # Changing Brightness
 XF86MonBrightness{Up,Down}
-  sudo brillo -q -{A,U} 5 ; \
+  # sudo brillo -q -{A,U} 5 ; \
+  brightnessctl s 50{+,-} ; \
   kill -35 "$(cat ~/.cache/pidofbar)"
 
 super + {F8,F7}
-  #brightnessctl s 50{+,-} ; \
-  sudo brillo -q -{A,U} 5 ; \
+  brightnessctl s 50{+,-} ; \
+  # sudo brillo -q -{A,U} 5 ; \
   kill -35 "$(cat ~/.cache/pidofbar)"
 
 super + {Right,Left}

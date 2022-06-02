@@ -39,7 +39,6 @@ bluez-tools
 bluez-utils
 boost-libs
 brightnessctl
-brillo
 brotli
 btop
 btrfs-progs
@@ -93,6 +92,7 @@ findutils
 flac
 flatpak
 flex
+fmt
 fontconfig
 freetype2
 fribidi
@@ -173,6 +173,7 @@ iso-codes
 jansson
 java-runtime-common
 jbig2dec
+jq
 jre8-openjdk
 jre8-openjdk-headless
 js78
@@ -546,6 +547,7 @@ pciutils
 pcmanfm
 pcre
 pcre2
+pcsx2
 perl
 perl-error
 perl-mailtools
@@ -684,6 +686,7 @@ qt5-translations
 qt6-base
 qt6-svg
 qt6-translations
+rapidyaml
 rav1e
 re2
 readline
@@ -712,6 +715,7 @@ snap-pac-grub
 snapper
 snappy
 sord
+soundtouch
 speex
 speexdsp
 spice
@@ -776,8 +780,11 @@ webrtc-audio-processing
 which
 wine
 woff2
+wolfssl
 wpa_supplicant
 wpebackend-fdo
+wxgtk-common
+wxgtk3
 x264
 x265
 xcb-proto
