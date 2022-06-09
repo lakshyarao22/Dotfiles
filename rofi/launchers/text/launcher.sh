@@ -24,6 +24,6 @@ color="${styles[$(( $RANDOM % 10 ))]}"
 #theme="${themes[$(( $RANDOM % 7 ))]}"
 
 rofi -combi-modi "drun,run,ssh" -no-lazy-grab -show drun \
--modi combi \
+-modi run \
 -theme $dir/"$theme"
 
