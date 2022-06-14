@@ -14,6 +14,7 @@ alsa-ucm-conf
 android-tools
 android-udev
 aom
+apparmor
 appstream-glib
 archlinux-keyring
 argon2
@@ -51,6 +52,9 @@ ca-certificates-utils
 cairo
 cantarell-fonts
 cdparanoia
+clang
+cmake
+compiler-rt
 coreutils
 cpio
 cryptsetup
@@ -178,6 +182,7 @@ jre8-openjdk-headless
 js78
 json-c
 json-glib
+jsoncpp
 kbd
 kconfig
 kcoreaddons
@@ -415,6 +420,7 @@ libutempter
 libuv
 libva
 libvdpau
+libverto
 libvirt
 libvirt-glib
 libvirt-python
@@ -508,6 +514,7 @@ nerd-fonts-jetbrains-mono
 nettle
 networkmanager
 nftables
+ninja
 nodejs
 noto-fonts
 noto-fonts-emoji
@@ -525,6 +532,7 @@ opencore-amr
 opendoas
 openjpeg2
 openmpi
+openpmix
 openssh
 openssl
 opus
@@ -595,12 +603,16 @@ python-hyperlink
 python-idna
 python-imagesize
 python-incremental
+python-jaraco.context
+python-jaraco.functools
+python-jaraco.text
 python-jinja
 python-lxml
 python-markupsafe
 python-more-itertools
 python-msgpack
 python-mutagen
+python-nspektr
 python-ordered-set
 python-packaging
 python-pep517
@@ -691,6 +703,7 @@ re2
 readline
 reflector
 rest
+rhash
 rofi
 rofi-emoji
 rsync
@@ -711,6 +724,7 @@ slang
 slop
 snap-pac
 snap-pac-grub
+snapd
 snapper
 snappy
 sord
@@ -721,6 +735,7 @@ spice
 spice-gtk
 spirv-tools
 sqlite
+squashfs-tools
 sratom
 srt
 startup-notification
@@ -813,6 +828,7 @@ xorg-xauth
 xorg-xev
 xorg-xfd
 xorg-xinit
+xorg-xinput
 xorg-xkbcomp
 xorg-xkill
 xorg-xmodmap
