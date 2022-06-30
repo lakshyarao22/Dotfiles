@@ -9,13 +9,13 @@
 
 configuration {
     font: 							"Jetbrains Mono Nerd Font 12";
-    fixed-num-lines: 				true;
+    fixed-num-lines: 				false;
     show-icons: 					false;
     sidebar-mode: 					true;
     scroll-method: 					0;
     window-format: 					"[{w}] ··· {c} ···   {t}";
     click-to-exit: 					true;
-    combi-hide-mode-prefix: 		false;
+    combi-hide-mode-prefix: 		true;
     display-window: 				"";
     display-windowcd: 				"";
     display-run: 					"";
@@ -33,13 +33,14 @@ configuration {
 window {
     border: 						0px;
     border-color: 					@ac;
-    border-radius: 					6px;
-    padding: 						30;
-    width: 							20%;
+    border-radius: 					0px;
+    padding: 						20;
+    width: 							50%;
+    y-offset:           -250px;
 }
 
 prompt {
-    spacing: 						0;
+    spacing: 						20;
     border: 						0;
     text-color: 					@fg;
 }
@@ -75,9 +76,9 @@ mainbox {
 }
 
 listview {
-    lines:							15;
+    lines:							10;
     columns:						1;
-    fixed-height: 					0;
+    fixed-height: 					5;
     border: 						0px;
     border-color: 					@ac;
     spacing: 						4px;

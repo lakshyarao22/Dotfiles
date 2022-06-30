@@ -77,6 +77,7 @@ dnssec-anchors
 dosfstools
 double-conversion
 dtc
+duktape
 dunst
 dust
 e2fsprogs
@@ -127,6 +128,8 @@ glu
 gmp
 gnupg
 gnutls
+go
+go-tools
 gobject-introspection-runtime
 google-chrome
 gpgme
@@ -645,9 +648,11 @@ python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-toml
 python-tomli
+python-trove-classifiers
 python-twisted
 python-typing_extensions
 python-urllib3
+python-validate-pyproject
 python-webencodings
 python-websockets
 python-zope-interface

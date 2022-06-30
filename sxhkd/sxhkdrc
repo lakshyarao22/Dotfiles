@@ -65,15 +65,15 @@ super + e
   pcmanfm
 # Browsing
 super + b ; {g,v}
-  {google-chrome-stable,vieb}
+  {google-chrome-stable --args --profile-directory="Profile 5",vieb}
 
 # Launch Terminal
 super + Return
   alacritty
 
-#Play Lofi on demand
-super + p ; l
-  lofi
+#Play Music on demand
+super + p ; {l, m}
+  {lofi, ytplay}
 # extra Functions 
 ctrl + shift + {F1,F2,F3,F4,F5}
 	{pkill -USR1 -x sxhkd,setxkbmap -option caps:escape && xset r rate 200 30 && notify-send "Keyboard Updated",connectBluetooth,mount_prompt,unmount_prompt}
