@@ -1,8 +1,0 @@
-2022/03/28-00:07:56.541 28458 Creating DB /home/lakshya/.config/Vieb/Partitions/main/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2022/03/28-00:07:56.548 28458 Reusing MANIFEST /home/lakshya/.config/Vieb/Partitions/main/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/28-00:07:56.550 28458 Recovering log #86
-2022/03/28-00:07:56.650 28458 Reusing old log /home/lakshya/.config/Vieb/Partitions/main/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000086.log 
-2022/03/28-00:07:56.650 28458 Delete type=2 #88
-2022/03/28-00:07:56.650 28458 Delete type=2 #89
-2022/03/28-00:07:56.651 28458 Delete type=2 #90
-2022/03/28-00:07:56.651 28458 Delete type=2 #91

@@ -14,7 +14,6 @@ alsa-ucm-conf
 android-tools
 android-udev
 aom
-apparmor
 appstream-glib
 archlinux-keyring
 argon2
@@ -71,9 +70,7 @@ devour
 dialog
 diffutils
 dmidecode
-dmraid
 dnsmasq
-dnssec-anchors
 dosfstools
 double-conversion
 dtc
@@ -111,7 +108,6 @@ gc
 gcab
 gcc
 gcc-libs
-gcr
 gdbm
 gdk-pixbuf2
 geoclue
@@ -128,13 +124,10 @@ glu
 gmp
 gnupg
 gnutls
-go
-go-tools
 gobject-introspection-runtime
 google-chrome
 gpgme
 gpm
-gptfdisk
 graphene
 graphite
 grep
@@ -156,8 +149,6 @@ gtk3
 gtksourceview4
 guile
 gumbo-parser
-gvfs
-gvfs-mtp
 gzip
 harfbuzz
 harfbuzz-icu
@@ -199,7 +190,6 @@ l-smash
 lame
 lazygit
 lcms2
-ldns
 less
 lib32-acl
 lib32-alsa-lib
@@ -289,15 +279,12 @@ libarchive
 libass
 libassuan
 libasyncns
-libatasmart
 libavc1394
 libb2
 libb64
-libblockdev
 libbluray
 libbpf
 libburn
-libbytesize
 libcaca
 libcacard
 libcap
@@ -335,10 +322,8 @@ libglvnd
 libgpg-error
 libgudev
 libheif
-libibus
 libical
 libice
-libid3tag
 libidn2
 libiec61883
 libinih
@@ -352,7 +337,6 @@ libldac
 libldap
 liblqr
 libluv
-libmad
 libmanette
 libmfx
 libmm-glib
@@ -480,9 +464,9 @@ lm_sensors
 lsb-release
 lscolors-git
 lsof
+lua
 luajit
 lv2
-lvm2
 lxmenu-data
 lz4
 lzo
@@ -492,7 +476,6 @@ make
 man-db
 mariadb-libs
 md4c
-mdadm
 menu-cache
 mesa
 miniupnpc
@@ -506,7 +489,6 @@ mpv
 msgpack-c
 mtdev
 mtools
-mtpfs
 mujs
 multipath-tools
 mupdf
@@ -518,9 +500,12 @@ nettle
 networkmanager
 nftables
 ninja
+node-gyp
 nodejs
+nodejs-nopt
 noto-fonts
 noto-fonts-emoji
+npm
 npth
 nspr
 nss
@@ -536,7 +521,6 @@ opendoas
 openjpeg2
 openmpi
 openpmix
-openssh
 openssl
 opus
 orc
@@ -567,7 +551,6 @@ pinentry
 pipewire
 pipewire-alsa
 pipewire-jack
-pipewire-media-session
 pipewire-pulse
 pixman
 pkgconf
@@ -594,12 +577,13 @@ python-cffi
 python-chardet
 python-click
 python-colorama
+python-commonmark
 python-constantly
-python-contextlib2
 python-cryptography
 python-distlib
 python-distro
 python-docutils
+python-future
 python-gobject
 python-html5lib
 python-hyperlink
@@ -620,8 +604,8 @@ python-ordered-set
 python-packaging
 python-pep517
 python-pip
+python-platformdirs
 python-ply
-python-progress
 python-psutil
 python-pyasn1
 python-pyasn1-modules
@@ -633,7 +617,7 @@ python-pyparsing
 python-pytz
 python-requests
 python-resolvelib
-python-retrying
+python-rich
 python-service-identity
 python-setuptools
 python-six
@@ -646,7 +630,7 @@ python-sphinxcontrib-htmlhelp
 python-sphinxcontrib-jsmath
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
-python-toml
+python-tenacity
 python-tomli
 python-trove-classifiers
 python-twisted
@@ -721,6 +705,7 @@ sdl2
 sdl2_image
 seabios
 sed
+semver
 serd
 shaderc
 shadow
@@ -729,7 +714,6 @@ slang
 slop
 snap-pac
 snap-pac-grub
-snapd
 snapper
 snappy
 sord
@@ -740,7 +724,6 @@ spice
 spice-gtk
 spirv-tools
 sqlite
-squashfs-tools
 sratom
 srt
 startup-notification
@@ -754,7 +737,6 @@ systemd-sysvcompat
 taglib
 tar
 texinfo
-thin-provisioning-tools
 tpm2-tss
 tracker3
 transmission-cli
@@ -768,7 +750,6 @@ ttf-ms-fonts
 twolame
 tzdata
 uchardet
-udisks2
 unclutter
 unibilium
 unrar
@@ -786,7 +767,6 @@ virt-install
 virt-manager
 vivid
 vmaf
-volume_key
 vte-common
 vte3
 vulkan-headers
@@ -795,9 +775,11 @@ vulkan-intel
 wavpack
 wayland
 webkit2gtk
+webkit2gtk-4.1
 webrtc-audio-processing
 which
 wine
+wireplumber
 woff2
 wolfssl
 wpa_supplicant
@@ -823,7 +805,6 @@ xdg-utils
 xdotool
 xf86-input-libinput
 xf86-video-vesa
-xfsprogs
 xkeyboard-config
 xorg-fonts-encodings
 xorg-server
@@ -847,7 +828,6 @@ xvidcore
 xxhash
 xz
 yajl
-yarn
 yay-bin
 yt-dlp
 yt-dlp-drop-in

@@ -1,7 +1,0 @@
-2022/03/22-03:52:37.029 185894 Reusing MANIFEST /home/lakshya/.config/Vieb/Partitions/main/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/22-03:52:37.029 185894 Recovering log #3
-2022/03/22-03:52:37.035 185894 Reusing old log /home/lakshya/.config/Vieb/Partitions/main/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000003.log 
-2022/03/22-03:53:13.684 190f90 Level-0 table #5: started
-2022/03/22-03:53:13.690 190f90 Level-0 table #5: 385013 bytes OK
-2022/03/22-03:53:13.695 190f90 Delete type=0 #3
-2022/03/22-03:53:13.695 185894 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

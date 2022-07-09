@@ -1,5 +1,0 @@
-2022/02/24-22:35:18.886 374a50 Creating DB /home/lakshya/.config/Vieb/Partitions/main/IndexedDB/https_unacademy.com_0.indexeddb.leveldb since it was missing.
-2022/02/24-22:35:18.892 374a50 Reusing MANIFEST /home/lakshya/.config/Vieb/Partitions/main/IndexedDB/https_unacademy.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/02/24-22:47:52.201 389d23 Level-0 table #5: started
-2022/02/24-22:47:52.235 389d23 Level-0 table #5: 1661387 bytes OK
-2022/02/24-22:47:52.241 389d23 Delete type=0 #3

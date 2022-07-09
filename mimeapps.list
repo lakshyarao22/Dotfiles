@@ -17,6 +17,7 @@ application/pdf=mupdf.desktop
 text/plain=nvim.desktop
 x-scheme-handler/mailto=google-chrome.desktop
 x-scheme-handler/mailspring=Mailspring.desktop
+image/jpeg=feh.desktop
 
 [Added Associations]
 x-scheme-handler/http=firefox.desktop;
@@ -31,3 +32,4 @@ application/x-extension-xhtml=firefox.desktop;
 application/x-extension-xht=firefox.desktop;
 application/pdf=google-chrome.desktop;
 text/plain=nvim.desktop;
+image/jpeg=feh.desktop;

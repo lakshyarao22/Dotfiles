@@ -38,8 +38,7 @@ lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
 --   },
 --   -- for normal mode
 --   n = {
---     ["<C-j>"] = actions.move_selection_next,
---     ["<C-k>"] = actions.move_selection_previous,
+--     ["<C-j>"] = actions.move_selection_next, ["<C-k>"] = actions.move_selection_previous,
 --   },
 -- }
 
