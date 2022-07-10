@@ -32,6 +32,7 @@ bash-completion
 bat
 binutils
 bison
+blas
 bluez
 bluez-libs
 bluez-plugins
@@ -50,6 +51,7 @@ ca-certificates-mozilla
 ca-certificates-utils
 cairo
 cantarell-fonts
+cblas
 cdparanoia
 clang
 cmake
@@ -188,6 +190,7 @@ kpty
 krb5
 l-smash
 lame
+lapack
 lazygit
 lcms2
 less
@@ -326,6 +329,7 @@ libical
 libice
 libidn2
 libiec61883
+libimagequant
 libinih
 libinput
 libisl
@@ -498,6 +502,7 @@ neovim
 nerd-fonts-jetbrains-mono
 nettle
 networkmanager
+newm-git
 nftables
 ninja
 node-gyp
@@ -580,29 +585,36 @@ python-colorama
 python-commonmark
 python-constantly
 python-cryptography
+python-dasbus
 python-distlib
 python-distro
 python-docutils
+python-evdev
 python-future
 python-gobject
 python-html5lib
 python-hyperlink
 python-idna
+python-imageio
 python-imagesize
 python-incremental
 python-jaraco.context
 python-jaraco.functools
 python-jaraco.text
 python-jinja
+python-levenshtein
 python-lxml
 python-markupsafe
 python-more-itertools
 python-msgpack
 python-mutagen
 python-nspektr
+python-numpy
 python-ordered-set
 python-packaging
+python-pam
 python-pep517
+python-pillow
 python-pip
 python-platformdirs
 python-ply
@@ -611,6 +623,7 @@ python-pyasn1
 python-pyasn1-modules
 python-pycparser
 python-pycryptodomex
+python-pyfiglet
 python-pygments
 python-pyopenssl
 python-pyparsing
@@ -631,6 +644,7 @@ python-sphinxcontrib-jsmath
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-tenacity
+python-thefuzz
 python-tomli
 python-trove-classifiers
 python-twisted
@@ -704,6 +718,7 @@ screen
 sdl2
 sdl2_image
 seabios
+seatd
 sed
 semver
 serd
@@ -791,6 +806,7 @@ x265
 xcb-proto
 xcb-util
 xcb-util-cursor
+xcb-util-errors
 xcb-util-image
 xcb-util-keysyms
 xcb-util-renderutil
@@ -823,6 +839,7 @@ xorg-xrandr
 xorg-xrdb
 xorg-xset
 xorg-xsetroot
+xorg-xwayland
 xorgproto
 xvidcore
 xxhash
